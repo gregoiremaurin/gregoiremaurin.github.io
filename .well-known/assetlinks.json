@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.gregoiremaurin.twa",
+    "sha256_cert_fingerprints": ["77:1B:0C:F9:21:2E:D5:7B:58:7B:73:66:B4:B5:72:C6:F7:69:B3:99:14:A7:85:84:0E:5F:F6:7A:EB:94:0C:C7"]
+  }
+}]
